@@ -15,13 +15,14 @@ h1{
     font-family: Verdana;
     font-weight: bold;
 
+
 }
  
 h2{    
     margin-top: 10px;
     color: #463706;
     padding: 5px 15px;
-    
+    border-left: dotted 3px black;
     
     
 }
@@ -58,4 +59,14 @@ a{
 .navbar{
     background-color: #bbee00;
 
+}
+
+ul{
+    margin: 40px;
+}
+
+
+div{
+    text-align: justify;
+    font
 }
